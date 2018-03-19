@@ -11,3 +11,8 @@ function confirm(status){
         }
     }
 }
+
+function run(){
+
+    return "2";
+}
